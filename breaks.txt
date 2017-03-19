@@ -1,0 +1,15 @@
+  400f02:	e8 8d 06 00 00		callq  401594 <explode_bomb>
+  400f20:	e8 6f 06 00 00       	callq  401594 <explode_bomb>
+  400f30:	e8 5f 06 00 00       	callq  401594 <explode_bomb>
+  400f75:	e8 1a 06 00 00       	callq  401594 <explode_bomb>
+  400fe7:	e8 a8 05 00 00       	callq  401594 <explode_bomb>
+  400ffe:	e8 91 05 00 00       	callq  401594 <explode_bomb>
+  40106e:	e8 21 05 00 00       	callq  401594 <explode_bomb>
+  401087:	e8 08 05 00 00       	callq  401594 <explode_bomb>
+  4010b3:	e8 dc 04 00 00       	callq  401594 <explode_bomb>
+  4010f4:	e8 9b 04 00 00       	callq  401594 <explode_bomb>
+  40112f:	e8 60 04 00 00       	callq  401594 <explode_bomb>
+  40114d:	e8 42 04 00 00       	callq  401594 <explode_bomb>
+  4011f5:	e8 9a 03 00 00       	callq  401594 <explode_bomb>
+  401273:	e8 1c 03 00 00       	callq  401594 <explode_bomb>
+  401289:	e8 06 03 00 00       	callq  401594 <explode_bomb>
